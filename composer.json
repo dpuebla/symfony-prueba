@@ -1,10 +1,10 @@
 {
-    "name": "dpuebla/symfonyPrueba",
+    "name": "dpuebla/symfony-prueba",
     "license": "MIT",
     "type": "project",
     "description": "Prueba de aplicación en Symfony",
     "keyworsd": ["dpuebla","symfony"],
-    "homepage": "https://github.com/dpuebla/symfonyPrueba",
+    "homepage": "https://github.com/dpuebla/symfony-prueba",
     "authors":[
 	{
 		"name": "Daniel Puebla Martin",
